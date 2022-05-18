@@ -1,12 +1,9 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
 h1 {
   border-left: 1400px solid purple;
 }
 h1 {
     position: left;
-body {background-color: coral;}
+body {
+  background-color: lightblue;
+}
 
